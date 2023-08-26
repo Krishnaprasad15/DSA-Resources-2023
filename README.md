@@ -1,5 +1,5 @@
 # 🚀 Welcome to the DSA Resources - 2023 Repository! 🚀 
-## This repository is a curated collection of resources that have been personally vetted and found helpful for me and everyone out there. Whether you're new to Data Structures and Algorithms (DSA) or looking to reinforce your understanding, you'll find a variety of tutorials, articles, practice problems, and more. Dive in, explore, and empower yourself with the knowledge that's helped me and others excel in DSA. 
+## This repository is a curated collection of resources that have been personally vetted and found helpful for me and everyone out there. Whether you're new to Data Structures and Algorithms (DSA) or looking to reinforce your understanding, you'll find a variety of tutorials, practice problems, and more. Dive in, explore, and empower yourself with the knowledge that's helped me and others excel in DSA. 
 <hr/>
 
 ### Start with a programming language and eventually master it for learning Data Structures and Algorithms (DSA)
