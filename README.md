@@ -6,7 +6,7 @@
 #### 1. Choose Your Language : Select a programming language that aligns with your goals and preferences. Python, Java, C++, and JavaScript are popular choices due to their versatility and extensive DSA resources. But I prefer you to go with C++ / Java.
 #### 2. Build a Strong Foundation : Solidify your understanding of the language by working on small problems. solve basic coding exercises, and explore STL(Standard template library) for C++ and Collections for Java.
 #### 3. Dive into DSA : Once you're comfortable with the programming language, venture into the realm of Data Structures and Algorithms. Begin with fundamental data structures like arrays, linked lists, stacks, and queues.
-#### 4. Practice, Practice, Practice : The key to mastering DSA is consistent practice. Leverage online platforms like LeetCode, HackerRank, and Codeforces to access a wide range of problems.
+#### 4. Practice, Practice, Practice : The key to mastering DSA is consistent practice. Leverage online platforms like LeetCode, CodeChef, and Codeforces to access a wide range of problems.
 
 <hr/>
 
